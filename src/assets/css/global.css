@@ -1,0 +1,6 @@
+/* 全局css配置 */
+html,
+body,
+#app {
+    height: 100%;
+}
